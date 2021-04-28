@@ -1,5 +1,4 @@
 
-# SHAPEAI WEB DEV BOOTCAMP
 
 
 
